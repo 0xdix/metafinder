@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ "$1" == "" ]
 then
-	echo "########### LIL DIX - GHDB SCRIPT ###########"
+	echo "########### LIL DIX - METAFINDER ###########"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
 	echo "Support pdf, doc, docx, xls, xlsx, ppt, pptx"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
