@@ -8,7 +8,7 @@
 
 <p align="center">
  
-   <img alt="License" src="https://img.shields.io/github/license/lildix/metafinder">
+   <img alt="License" src="https://img.shields.io/github/license/0xdix/metafinder">
 
 </p>
 
@@ -30,7 +30,7 @@ $ sudo apt install lynx && exiftool
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:lildix/metafinder.git
+$ git clone git@github.com:0xdix/metafinder.git
 
 # Access the script folder in your terminal
 $ cd metafinder
@@ -46,4 +46,4 @@ $ ./metafinder
 
 This project is under the license [MIT](./LICENSE).
 
-Made by Harley Araujo (lildix)
+Made by Harley Araujo (0xdix)
